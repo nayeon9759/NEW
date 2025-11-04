@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_건물" data-name="건물" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1814 1196">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_무제_그라디언트_245-2);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#_무제_그라디언트_245);
+      }
+
+      .cls-3 {
+        fill: url(#_무제_그라디언트_28);
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="_무제_그라디언트_245" data-name="무제 그라디언트 245" x1="753.98" y1="1083.3" x2="759.31" y2="600.96" gradientTransform="translate(91.23 -34.29) rotate(.4)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#25a8f4"/>
+      <stop offset="0" stop-color="#fff" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#2eaef1" stop-opacity=".55"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_245-2" data-name="무제 그라디언트 245" x1="954.73" y1="855.21" x2="1089.37" y2="567.32" xlink:href="#_무제_그라디언트_245"/>
+    <linearGradient id="_무제_그라디언트_28" data-name="무제 그라디언트 28" x1="755.56" y1="419.41" x2="754.23" y2="966.16" gradientTransform="translate(86.25 -28.99)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#25a8f4"/>
+      <stop offset="0" stop-color="#f49308"/>
+      <stop offset=".96" stop-color="#ffe66f"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-2" d="M1083.6,979.64l-25.18-.18c.72-1.48,1.13-3.11,1.14-4.82l4.12-585.46c.05-6.95-6.4-12.68-14.32-12.73l-412.93-2.9c-7.92-.06-14.45,5.58-14.5,12.53l-4.12,585.46c-.01,1.71.37,3.34,1.07,4.83l-25.18-.18c-7.92-.06-14.45,5.58-14.5,12.53l-.2,28.62c-.05,6.95,6.4,12.68,14.32,12.73l489.89,3.45c7.92.06,14.45-5.58,14.5-12.53l.2-28.62c.05-6.95-6.4-12.68-14.32-12.73Z"/>
+  <path class="cls-1" d="M1039.24,543.79c-.06,8.22,5.93,15.23,14.04,16.43,85.65,12.65,146.67,21.61,146.02,114.7-.65,93.04-60.1,108.78-145.85,120.22-8.18,1.09-14.35,7.97-14.4,16.24h0c-.07,10.02,8.71,17.8,18.61,16.47,101.06-13.59,172.38-43.01,173.15-152.71.77-109.69-71.86-132.54-172.72-147.55-9.88-1.47-18.77,6.18-18.84,16.2h0Z"/>
+  <rect class="cls-3" x="662.73" y="394.74" width="356.78" height="562.68" rx="12" ry="12" transform="translate(4.78 -5.9) rotate(.4)"/>
+  <g>
+    <ellipse class="cls-4" cx="927.41" cy="259.77" rx="63.77" ry="61.62" transform="translate(661.12 1185.33) rotate(-89.6)"/>
+    <ellipse class="cls-4" cx="847.03" cy="277.83" rx="63.77" ry="61.62" transform="translate(563.24 1122.89) rotate(-89.6)"/>
+    <ellipse class="cls-4" cx="762.33" cy="298.73" rx="63.77" ry="61.62" transform="translate(458.24 1058.94) rotate(-89.6)"/>
+    <ellipse class="cls-4" cx="992.96" cy="311.82" rx="63.77" ry="61.62" transform="translate(674.16 1302.57) rotate(-89.6)"/>
+    <ellipse class="cls-4" cx="1032.04" cy="359.58" rx="48.2" ry="46.57" transform="translate(665.21 1389.06) rotate(-89.6)"/>
+    <ellipse class="cls-4" cx="635.61" cy="487.01" rx="188.44" ry="35.11" transform="translate(144.14 1119.18) rotate(-89.6)"/>
+    <ellipse class="cls-4" cx="847.83" cy="368.12" rx="118.23" ry="28.66" transform="translate(473.75 1213.34) rotate(-89.6)"/>
+    <ellipse class="cls-4" cx="956.18" cy="447.71" rx="142.59" ry="28.66" transform="translate(501.76 1400.71) rotate(-89.6)"/>
+    <path class="cls-4" d="M646.91,307.24s22.42-29.94,66.76-16.73l198.47-22.71,101.36,108.21s-19.84,41.14-47.02,35.22c0,0-71.92,38.19-101.69-7.88,0,0-154.1,61.84-187.37,26.56-33.27-35.28-34.53-59.65-34.53-59.65l4.03-63.03Z"/>
+  </g>
+</svg>

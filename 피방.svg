@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_건물" data-name="건물" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1814 1196">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_무제_그라디언트_128-2);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#_무제_그라디언트_148);
+      }
+
+      .cls-3 {
+        fill: url(#_무제_그라디언트_128);
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="_무제_그라디언트_128" data-name="무제 그라디언트 128" x1="881.41" y1="762.23" x2="884.41" y2="918.39" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff2827"/>
+      <stop offset="1" stop-color="#ffbbb2"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_148" data-name="무제 그라디언트 148" x1="890.62" y1="757.63" x2="888.05" y2="1268.35" gradientUnits="userSpaceOnUse">
+      <stop offset=".21" stop-color="#ff2827"/>
+      <stop offset=".45" stop-color="#ffbbb2"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_128-2" data-name="무제 그라디언트 128" x1="896.12" y1="376.13" x2="896.57" y2="954.07" xlink:href="#_무제_그라디언트_128"/>
+  </defs>
+  <rect class="cls-3" x="781.15" y="778" width="203.27" height="111.09" rx="3.87" ry="3.87"/>
+  <rect class="cls-2" x="634.6" y="877.27" width="510.54" height="56.73" rx="26.2" ry="26.2"/>
+  <rect class="cls-1" x="538.15" y="253.87" width="716.17" height="538.9" rx="34.46" ry="34.46"/>
+  <rect class="cls-4" x="589.69" y="302.92" width="612.18" height="427.81" rx="8.29" ry="8.29"/>
+</svg>

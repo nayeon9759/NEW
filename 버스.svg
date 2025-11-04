@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_건물" data-name="건물" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1814 1196">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_무제_그라디언트_134-3);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#_무제_그라디언트_134-4);
+      }
+
+      .cls-3 {
+        fill: url(#_무제_그라디언트_134-2);
+      }
+
+      .cls-4 {
+        fill: url(#_무제_그라디언트_134);
+      }
+
+      .cls-5 {
+        fill: #212121;
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="_무제_그라디언트_134" data-name="무제 그라디언트 134" x1="-12376.51" y1="9210.36" x2="-11643.59" y2="9210.36" gradientTransform="translate(8522.65 13668.85) rotate(97.25)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#25a8f4"/>
+      <stop offset="0" stop-color="#ffa409"/>
+      <stop offset="1" stop-color="#ffe66f"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_134-2" data-name="무제 그라디언트 134" x1="-245.39" y1="241.25" x2="-246.81" y2="578.09" gradientTransform="translate(1205.76 153.43) rotate(7.25)" xlink:href="#_무제_그라디언트_134"/>
+    <linearGradient id="_무제_그라디언트_134-3" data-name="무제 그라디언트 134" x1="-38.74" y1="399.27" x2="-63.71" y2="399.91" gradientTransform="translate(1205.76 153.43) rotate(7.25)" xlink:href="#_무제_그라디언트_134"/>
+    <linearGradient id="_무제_그라디언트_134-4" data-name="무제 그라디언트 134" x1="-451.55" y1="399.81" x2="-426.58" y2="399.81" gradientTransform="translate(1205.76 153.43) rotate(7.25)" xlink:href="#_무제_그라디언트_134"/>
+  </defs>
+  <g>
+    <circle class="cls-4" cx="901.56" cy="592.5" r="366.46"/>
+    <circle class="cls-6" cx="901.56" cy="592.5" r="337"/>
+  </g>
+  <g>
+    <g>
+      <rect class="cls-5" x="768.53" y="716.46" width="62.3" height="90.2" rx="2.99" ry="2.99" transform="translate(102.5 -94.83) rotate(7.25)"/>
+      <rect class="cls-5" x="926.7" y="736.58" width="62.3" height="90.2" rx="2.99" ry="2.99" transform="translate(106.3 -114.63) rotate(7.25)"/>
+    </g>
+    <path class="cls-3" d="M984.89,375.62l-109.71-13.96c-61.72-7.85-117.9,30.4-124.85,85.01l-2.26,17.76-9.97,78.39-18.96,149.07c-2.36,18.58,12.74,35.8,33.74,38.47l258.12,32.84c21,2.67,39.93-10.22,42.3-28.8l18.96-149.07,9.97-78.39,2.26-17.76c6.95-54.61-37.87-105.71-99.59-113.57Z"/>
+    <rect class="cls-6" x="765.37" y="446.5" width="287.21" height="175.28" transform="translate(74.67 -110.44) rotate(7.25)"/>
+    <rect class="cls-6" x="880.76" y="391.59" width="89.75" height="23.23" transform="translate(58.28 -113.59) rotate(7.25)"/>
+    <g>
+      <circle class="cls-6" cx="775.61" cy="666.29" r="27.54"/>
+      <circle class="cls-6" cx="1005.01" cy="695.47" r="27.54"/>
+    </g>
+    <g>
+      <path class="cls-1" d="M1107.21,502.95l-12.39-1.58-10.26,80.66,12.39,1.58c6.81.87,12.71-1,13.12-4.15l8.8-69.2c.4-3.15-4.85-6.44-11.66-7.3Z"/>
+      <path class="cls-2" d="M724.88,454.31l12.39,1.58-10.26,80.66-12.39-1.58c-6.81-.87-12.06-4.15-11.66-7.3l8.8-69.2c.4-3.15,6.3-5.02,13.12-4.15Z"/>
+    </g>
+  </g>
+</svg>

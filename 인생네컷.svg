@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_건물" data-name="건물" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1814 1196">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_무제_그라디언트_141);
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="_무제_그라디언트_141" data-name="무제 그라디언트 141" x1="898.23" y1="990.21" x2="890.17" y2="467.72" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c0ecc0"/>
+      <stop offset=".8" stop-color="#56c072"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-1" x="748.88" y="209.52" width="287.12" height="810.6"/>
+  <g>
+    <rect class="cls-2" x="766.24" y="232.22" width="252.4" height="144.23"/>
+    <rect class="cls-2" x="766.24" y="393.81" width="252.4" height="144.23"/>
+    <rect class="cls-2" x="766.24" y="555.4" width="252.4" height="144.23"/>
+    <rect class="cls-2" x="766.24" y="716.98" width="252.4" height="144.23"/>
+  </g>
+</svg>

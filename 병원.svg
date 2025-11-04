@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_건물" data-name="건물" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1814 1196">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_무제_그라디언트_134-2);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#_무제_그라디언트_134);
+      }
+
+      .cls-3 {
+        fill: url(#_무제_그라디언트_133);
+      }
+
+      .cls-4 {
+        fill: url(#_무제_그라디언트_46);
+      }
+
+      .cls-5 {
+        fill: url(#_무제_그라디언트_46-2);
+      }
+
+      .cls-6 {
+        fill: #d69029;
+      }
+
+      .cls-7 {
+        fill: #fff;
+        opacity: .75;
+      }
+    </style>
+    <linearGradient id="_무제_그라디언트_134" data-name="무제 그라디언트 134" x1="1353.07" y1="708.38" x2="904.12" y2="709.47" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#25a8f4"/>
+      <stop offset="0" stop-color="#ffa409"/>
+      <stop offset="1" stop-color="#ffe66f"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_46" data-name="무제 그라디언트 46" x1="1114.81" y1="466.42" x2="1114.71" y2="425.25" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#25a8f4"/>
+      <stop offset="0" stop-color="#ffa409"/>
+      <stop offset=".76" stop-color="#ffe66f"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_134-2" data-name="무제 그라디언트 134" x1="885.58" y1="588.78" x2="428.02" y2="589.02" xlink:href="#_무제_그라디언트_134"/>
+    <linearGradient id="_무제_그라디언트_46-2" data-name="무제 그라디언트 46" x1="647.86" y1="225.8" x2="647.85" y2="187.2" xlink:href="#_무제_그라디언트_46"/>
+    <linearGradient id="_무제_그라디언트_133" data-name="무제 그라디언트 133" x1="592.05" y1="321.19" x2="703.66" y2="321.19" gradientUnits="userSpaceOnUse">
+      <stop offset="1" stop-color="#ff2827"/>
+      <stop offset="1" stop-color="#ffbbb2"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-2" x="880.01" y="448.91" width="469.48" height="520.1"/>
+  <rect class="cls-4" x="860.5" y="422" width="508.5" height="41.18"/>
+  <g>
+    <rect class="cls-7" x="918.78" y="589.6" width="69.01" height="86.95"/>
+    <rect class="cls-7" x="1026.42" y="590.11" width="69.01" height="86.95"/>
+    <rect class="cls-7" x="1134" y="589.6" width="69.01" height="86.95"/>
+    <rect class="cls-7" x="1241.51" y="589.6" width="69.01" height="86.95"/>
+    <rect class="cls-7" x="918.78" y="742.09" width="69.01" height="86.95"/>
+    <rect class="cls-7" x="1134.06" y="742.6" width="69.01" height="86.95"/>
+    <rect class="cls-7" x="1241.7" y="742.09" width="69.01" height="86.95"/>
+    <rect class="cls-7" x="1026.42" y="742.6" width="69.01" height="86.95"/>
+  </g>
+  <rect class="cls-1" x="413.12" y="209.51" width="469.48" height="758.78"/>
+  <rect class="cls-5" x="393.61" y="182.6" width="508.5" height="41.18"/>
+  <rect class="cls-7" x="448.56" y="427.85" width="69.01" height="86.95"/>
+  <rect class="cls-7" x="556.2" y="428.35" width="69.01" height="86.95"/>
+  <rect class="cls-7" x="663.78" y="427.85" width="69.01" height="86.95"/>
+  <rect class="cls-7" x="771.29" y="427.85" width="69.01" height="86.95"/>
+  <rect class="cls-7" x="448.56" y="580.34" width="69.01" height="86.95"/>
+  <rect class="cls-7" x="663.84" y="580.84" width="69.01" height="86.95"/>
+  <rect class="cls-7" x="771.49" y="580.34" width="69.01" height="86.95"/>
+  <path class="cls-6" d="M707.59,969.21v-142.26c0-29.68-21.62-53.75-48.28-53.75h-25.85c-26.67,0-48.28,24.06-48.28,53.75v142.26h122.42Z"/>
+  <rect class="cls-7" x="556.2" y="580.84" width="69.01" height="86.95"/>
+  <path class="cls-3" d="M694.73,309.66h-35.34v-35.34c0-4.91-4.02-8.93-8.93-8.93h-5.21c-4.91,0-8.93,4.02-8.93,8.93v35.34h-35.34c-4.91,0-8.93,4.02-8.93,8.93v5.21c0,4.91,4.02,8.93,8.93,8.93h35.34v35.34c0,4.91,4.02,8.93,8.93,8.93h5.21c4.91,0,8.93-4.02,8.93-8.93v-35.34h35.34c4.91,0,8.93-4.02,8.93-8.93v-5.21c0-4.91-4.02-8.93-8.93-8.93Z"/>
+</svg>

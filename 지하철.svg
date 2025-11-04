@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_건물" data-name="건물" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1814 1196">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+        font-family: Pretendard-Medium-KSCpc-EUC-H, Pretendard;
+        font-size: 388.77px;
+        font-weight: 500;
+      }
+
+      .cls-2 {
+        fill: url(#_무제_그라디언트_20);
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="_무제_그라디언트_20" data-name="무제 그라디언트 20" x1="-663.36" y1="602.15" x2="51.54" y2="602.15" gradientTransform="translate(1329.04 -7.19) rotate(-.41)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff2827"/>
+      <stop offset=".84" stop-color="#ffbbb2"/>
+    </linearGradient>
+  </defs>
+  <circle class="cls-2" cx="907" cy="598" r="357.45"/>
+  <circle class="cls-3" cx="907" cy="598" r="290.57"/>
+  <text class="cls-1" transform="translate(792.3 725.53) rotate(-.41)"><tspan x="0" y="0">2</tspan></text>
+</svg>
